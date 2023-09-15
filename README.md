@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rivera-galo
+- 👋 Hi, I’m Galo
 - 👀 I’m interested in the automation of pipelines for visual scientific communication and visual arts 
 - 🌱 I’m currently learning to live code and to generate data visualizations
